@@ -1,4 +1,4 @@
-package batista.lucas.db;
+package lucas.db;
 
 
 import java.io.FileInputStream;

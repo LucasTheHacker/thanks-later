@@ -1,4 +1,4 @@
-package batista.lucas.db;
+package lucas.db;
 
 public class DbIntegrityException extends RuntimeException{
 
